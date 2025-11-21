@@ -1,0 +1,13 @@
+# ignore ficheiros binários
+*.o
+*.out
+*.exe
+
+# macOS system files
+.DS_Store
+
+# VS Code folder
+.vscode/
+
+# build directories
+build/
